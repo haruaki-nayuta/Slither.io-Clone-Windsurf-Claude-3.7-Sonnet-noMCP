@@ -4,6 +4,7 @@
 このプロジェクトは人気ゲーム「Slither.io」のシングルプレイヤー版です。プレイヤーは蛇を操作し、フィールド上の餌を集めながら成長し、NPCの蛇と競争します。ClaudeCodeおよびClaudeCodeMCPのベンチマークを行うために作成しました。
 
 ここから遊べます\
+https://haruaki-nayuta.github.io/Slither.io-Clone-Windsurf-Claude-3.7-Sonnet-noMCP/
 
 \
 （このリポジトリのコードはMCPを使わず作成しました。）
